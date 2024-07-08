@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Request_Api_Grupo_1_Tarea_2.2</string>
+    <string name="verListaPostsText">Ver lista de posts</string>
+    <string name="verPostsIndividualText">Ver posts individuales</string>
+    <string name="regresarButton">Regresar</string>
+    <string name="ingresarId">Ingrese un ID valido.</string>
+</resources>
